@@ -1,0 +1,10 @@
+Sarcophagi model instructions:
+
+The info we gave the machinist is that 'the holes along the side will work for countersinking and threading a loose fit 2-56 cap screw without any of the metal becoming too thin to machine.'
+
+The contact for the machinist Wilson Lab used is Chris Leyds, and his company,
+Creatrix, is based in the Netherlands. Here is his email: c.leyds@crtrx.com
+
+
+Note: there was a slight discrepancy between the distance to the wall of the side holes in two of the files.
+Contact Michael Reiser to request an updated version of the file. 
